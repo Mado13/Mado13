@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matan</h1>
 <h3 align="center">Passionate about creating Scalable solutions</h3>
 
-- 🔭 I’m currently working at Voormedia B.V
+- 🔭 I’m currently working at Smarttrackers B.V
 
-- 🌱 I’m currently learning **Remix, React, Fundamentals**
+- 🌱 I’m currently learning **Phoenix, Svelte, Fundamentals**
 
 - 💬 Ask me about **Ruby On Rails**
 
